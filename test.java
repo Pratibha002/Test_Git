@@ -132,7 +132,7 @@ public class test {
         // return type
 
         System.out.println("HELLO WORLD!!");
-        Test t = new Test();
+        test t = new test();
         System.out.println(t.pratibha());
         System.out.println(t.pratibha01());
         System.out.println(t.pratibha02());
